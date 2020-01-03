@@ -1,3 +1,4 @@
 # hello-world
-just another rep
+just another rep.
 first steps in git!
+Wow!
